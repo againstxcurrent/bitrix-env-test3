@@ -1,4 +1,4 @@
-FROM centos:6.6
+FROM centos:6.8
 
 # bitrix
 ADD http://repos.1c-bitrix.ru/yum/bitrix-env.sh /tmp/
